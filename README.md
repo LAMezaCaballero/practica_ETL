@@ -1,5 +1,5 @@
 # practica_ETL
-en este repositorio se practicara el  descargar informacion, analizarla, editarla para su procesamiento. \n
+en este repositorio se practicara el  descargar informacion, analizarla, editarla para su procesamiento. \
 se usara las tecnologías de \n
 
 google colab     para correr el codigo 
