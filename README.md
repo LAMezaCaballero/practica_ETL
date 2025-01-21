@@ -1,6 +1,6 @@
 # practica_ETL
-en este repositorio se practicara el  descargar informacion, analizarla, editarla para su procesamiento. \
-se usara las tecnologías de \
+en este repositorio se practicara el  descargar informacion, analizarla, editarla para su procesamiento. 
+se usara las tecnologías de 
 
 google colab     para correr el codigo 
 junyper notebook
